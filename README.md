@@ -10,6 +10,6 @@
 ### 建造者模式
 详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(四)建造者模式.md)
 ### 单例模式
-详细的讲解文件在[这里]()
+详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(五)单例模式.md)
 ## 结构型模式
 ## 行为型模式
