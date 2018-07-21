@@ -25,3 +25,5 @@
 ### 代理模式
 详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(十一)代理模式.md)
 ## 行为型模式
+### 命令模式
+详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(十二)命令模式.md)
