@@ -29,3 +29,5 @@
 详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(十二)命令模式.md)
 ### 策略模式
 详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(十三)策略模式.md)
+### 模板模式
+详细的讲解文件在[这里](https://github.com/oeljeklaus-you/Design-Patterns/blob/master/设计模式(十四)模板模式.md)
